@@ -151,5 +151,9 @@ temp/
 
 # Gemini IDE configurations & cache
 .gemini/
-.agents/workflows/export-conversations.md
-C:\Users\luule\.gemini\antigravity-ide\
+C:\Users\luule\.gemini\antigravity-ide/
+
+# Project configuration and internal tools (Not related to landing page)
+.agents/
+scripts/
+docs/
